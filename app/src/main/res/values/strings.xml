@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="quantity">Quantity</string>
+    <string name="_0">1</string>
+    <string name="decrease">-</string>
+    <string name="price">price</string>
+    <string name="whipped_cream">Whipped Cream price + 1</string>
+    <string name="order">Order</string>
+    <string name="increase">+</string>
+    <string name="name">Name</string>
+    <string name="_5">5/-</string>
+    <string name="chocolate_cream">Chocolate Cream price + 2</string>
+</resources>
